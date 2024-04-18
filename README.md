@@ -1,4 +1,4 @@
-# AI_Project_PPE-Compliance-Recognition
+# AI Project-PPE Compliance Recognition
 
 ## Project Description
 This project is designed to run on a Raspberry Pi 5 and uses a USB-connected camera to track eye positions with Haar Cascade, calculate the facial region, and detect whether a face mask is being worn correctly. It targets a frame rate of approximately 12 FPS and a latency of about 50ms.
